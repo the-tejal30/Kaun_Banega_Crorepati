@@ -9,7 +9,6 @@ Kaun Banega Crorepati is an interactive web application that simulates the popul
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Folder Structure](#folder-structure)
 
 
 ## Demo
@@ -47,44 +46,5 @@ React Router: For routing and navigation.
 React-Toastify: For notifications.
 react-canvas-confetti: For visual effects.
 use-sound: For adding sound effects.
-
-5.**Folder Structure**
-The project is structured as follows:
-
-Kaun_Banega_Crorepati/
-├── public/
-│   └── logo.png
-├── src/
-│   ├── assets/
-│   │   ├── play.mp3
-│   │   ├── correct.mp3
-│   │   ├── wrong.mp3
-│   │   ├── kbc-bg.svg
-│   │   └── wait.mp3
-│   ├── components/
-│   │   ├── Finish/
-│   │   │   ├── Finish.jsx
-│   │   │   └── Finish.css
-│   │   ├── Start/
-│   │   │   ├── Start.jsx
-│   │   │   └── Start.css
-│   │   ├── Timer/
-│   │   │   ├── Timer.jsx
-│   │   │   └── Timer.css
-│   │   ├── Trivia/
-│   │   │   ├── Trivia.jsx
-│   │   │   └── Trivia.css
-│   ├── context/
-│   │   └── AuthContext.jsx
-│   ├── utils/
-│   │   ├── authUtils.js
-│   │   └── constants.js
-│   ├── App.jsx
-│   ├── index.html
-│   └── main.jsx
-├── .gitignore
-├── package.json
-├── README.md
-└── vite.config.js
 
 
