@@ -14,7 +14,7 @@ Kaun Banega Crorepati is an interactive web application that simulates the popul
 
 ## Demo
 
-Check out the live demo of the project [here](https://your-demo-link.com).
+Check out the live demo of the project (https://kaun-banega-crorepati-git-main-thetejal30s-projects.vercel.app/).
 
 ## Features
 
